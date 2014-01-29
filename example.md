@@ -15,7 +15,7 @@ This is a pretty plain looking document. But it is written *markdown*! So it is 
 
 Some great things about markdown:
 
-* Easy to make
+* Easy to make lists
   * Even
   * Indented 
     * Lists
